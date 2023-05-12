@@ -1,0 +1,8 @@
+fastapi[all]
+starlette
+uvicorn
+pytest
+python-dotenv
+gunicorn
+requests
+python-multipart
